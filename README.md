@@ -1,7 +1,7 @@
 # Extra Int Math
 
 ## Overview of Application 
-The goal of the application is to request an operation on the client side, then perform the operation on the server side. The operations include modulo and exponentiation. The client receives the request as follows: "operation arg1 arg2".
+The goal of the application is to request an operation on the client side, then perform the operation on the server side. The operations include modulo and exponentiation. The client receives the request as follows: "operation arg1 arg2". Arguments are provided through command line: e.g. "(base) anisha@MacBook-Pro-107 string-rpc % python client.py mod 1 2" 
 
 The operation keywords possible are:
 - mod 
